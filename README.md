@@ -1,1 +1,1 @@
-Practive Game Challenge
+Practice Game Challenge
